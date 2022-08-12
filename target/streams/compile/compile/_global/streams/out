@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Volumes/GoogleDrive/My Drive/UNIVERSIDAD/SEMESTRE 5/DISCRETAS/SEMANA 2/scala_examples/funtional/src/main/scala/Main.scala:6:8: not found: value n[0m
+[0m[[0m[31merror[0m] [0m[0m    if(n == 1){[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Volumes/GoogleDrive/My Drive/UNIVERSIDAD/SEMESTRE 5/DISCRETAS/SEMANA 2/scala_examples/funtional/src/main/scala/Main.scala:9:26: not found: value n[0m
+[0m[[0m[31merror[0m] [0m[0m      return sumOfNumber(n-1)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
