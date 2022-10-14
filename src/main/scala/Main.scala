@@ -1,11 +1,18 @@
 
 object Main extends App {
-/*   println("Hello, World!")
+  val x = new Rational(1,2);
+  val y = new Rational(5,2);
+  def z: Rational = y + x //Notación infija
+  println(z.numerator,z.denominator);
+  println(x.denominator, x.numerator);
+/* Debuging 🚨
+  println("Hello, World!")
   println(sumOfNumbers(5))
   println(raizCuad(10))
-  println(seg(5)) */
+  println(seg(5)) 
   println(countOfFigures(3232392))
-  //println(reverseANumber(5678,(countOfFigures(1,5678)-1)))
+  println(reverseANumber(5678,(countOfFigures(1,5678)-1)))
+  */
 
   /**
   * Calculate the sum of the predecesors numbers from an specific one 🐨
