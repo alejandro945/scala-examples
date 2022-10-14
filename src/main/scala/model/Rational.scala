@@ -1,3 +1,5 @@
+package model
+
 class Rational(x:Int, y:Int){
     /**
       * Constants and properties of the object
